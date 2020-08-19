@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="187">
+<plist version="1">
 <dict>
 	<key>items</key>
 	<array>
@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://221.5.109.18:8088/iService-demo-debug.ipa</string>
+					<string>http://221.5.109.18:8088/grg.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,14 +31,14 @@
 				<key>bundle-identifier</key>
 				<string>com.grggenerall.jupsh</string>
 				<key>bundle-version</key>
-				<string>187</string>
+				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
 				<!-- Iservice-Demo -->
-				<string>Demo</string>
+				<string>Iservice-Demo</string>
 			</dict>
 		</dict>
 	</array>
