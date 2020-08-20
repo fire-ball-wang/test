@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://lance.mynatapp.cc/test/grg.ipa</string>
+					<string>https://grgdisk.grgbanking.com/remote.php/webdav/Runner.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://lance.mynatapp.cc/test/grg_logo.JPG</string>
+					<string>https://grgpublish.grgiservice.com/Public/images/grg_logo.JPG</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://lance.mynatapp.cc/test/grg_logo.JPG</string>
+					<string>https://grgpublish.grgiservice.com/Public/images/grg_logo.JPG</string>
 				</dict>
 			</array>
 			<key>metadata</key>
